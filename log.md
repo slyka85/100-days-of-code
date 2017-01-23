@@ -27,7 +27,9 @@
 **Today's Progress**: Today is a great day! I finished day 11 of #dailycssimages challenge. And notice my pen in The weekly Codepen Spark, which is such a motivation to me.
 
 **Thoughts:** Feeling good.
+
 **Link to work:** [Pure CSS Pizza](http://codepen.io/slyka85/pen/dNRVRg)
+
 **Codepen Spark:** [January 23 Edition](https://codepen.io/spark/8)
 
 
