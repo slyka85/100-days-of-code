@@ -33,7 +33,13 @@
 **Codepen Spark:** [January 23 Edition](https://codepen.io/spark/8)
 
 
+### Day 5: January 27, 2017
 
+**Today's Progress**: Everyday I'm CSS'ing... Background gradients are so powerful.  And autoprefix generator took all the worries for adding prefixes away :) 
+
+**Thoughts:** Was not really in a code mood today but still got this burger animation going.
+
+**Link to work:** [Animated Burger CSS](http://codepen.io/slyka85/full/bgqPaK)
 
 
 
