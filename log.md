@@ -39,7 +39,7 @@
 
 **Thoughts:** Was not really in a code mood today but still got this burger animation going.
 
-**Link to work:** [Animated Burger CSS](http://codepen.io/slyka85/full/bgqPaK)
+**Link to work:** [Animated Burger CSS](http://codepen.io/slyka85/pen/pRdwog)
 
 
 
