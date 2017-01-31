@@ -42,4 +42,19 @@
 **Link to work:** [Animated Burger CSS](http://codepen.io/slyka85/pen/pRdwog)
 
 
+### Day 6: January 29, 2017
+
+**Today's Progress**: Started Javascript30 course. Made an interactive piano with vanilla js. Still in progress for enhancements.
+
+**Thoughts:** Gotta do more javascript...
+
+### Day 7: January 30, 2017
+
+**Today's Progress**: #dailycss images challenge continues. Created Franketnstein animation.
+
+**Thoughts:** Was really struggling with z-index when it comes to children to parent elements with pseudo-elements. Made good use of background linear-gradient.
+
+**Link to work:** [Animated Frankenstein in pure CSS](http://codepen.io/slyka85/pen/xgYKbv)
+
+
 
