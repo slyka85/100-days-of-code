@@ -64,5 +64,11 @@
  [Webinar: Dirty Little Tricks From the Dark Corners of Front-End] (https://www.youtube.com/watch?v=CHx9k2UOS1s)
 
 
+### Day 9: February 3, 2017
+
+**Today's Progress**: Started a Javascript online course from Tony Alicea on Udemy. 
+ [Free part of the course] (https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
+
+
 
 
