@@ -48,6 +48,7 @@
 
 **Thoughts:** Gotta do more javascript...
 
+
 ### Day 7: January 30, 2017
 
 **Today's Progress**: #dailycss images challenge continues. Created Franketnstein animation.
@@ -55,6 +56,13 @@
 **Thoughts:** Was really struggling with z-index when it comes to children to parent elements with pseudo-elements. Made good use of background linear-gradient.
 
 **Link to work:** [Animated Frankenstein in pure CSS](http://codepen.io/slyka85/pen/xgYKbv)
+
+
+### Day 8: February 2, 2017
+
+**Today's Progress**: Watched an awesome webinar from Vitaly Friedman about some 'Front end Dirty little tricks". Learned a bunch of useful info in CSS. 
+ [Presentation] (https://www.youtube.com/watch?v=CHx9k2UOS1s)
+
 
 
 
