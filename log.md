@@ -61,7 +61,7 @@
 ### Day 8: February 2, 2017
 
 **Today's Progress**: Watched an awesome webinar from Vitaly Friedman about some 'Front end Dirty little tricks". Learned a bunch of useful info in CSS. 
- [Presentation] (https://www.youtube.com/watch?v=CHx9k2UOS1s)
+ [Webinar: Dirty Little Tricks From the Dark Corners of Front-End] (https://www.youtube.com/watch?v=CHx9k2UOS1s)
 
 
 
