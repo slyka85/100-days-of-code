@@ -61,12 +61,14 @@
 ### Day 8: February 2, 2017
 
 **Today's Progress**: Watched an awesome webinar from Vitaly Friedman about some 'Front end Dirty little tricks". Learned a bunch of useful info in CSS. 
+
  [Webinar: Dirty Little Tricks From the Dark Corners of Front-End] (https://www.youtube.com/watch?v=DQk9TqO5ets)
 
 
 ### Day 9: February 3, 2017
 
 **Today's Progress**: Started a Javascript online course from Tony Alicea on Udemy. 
+
  [Free part of the course] (https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
 
@@ -74,6 +76,7 @@
 ### Day 10: February 4, 2017
 
 **Today's Progress**: Continued going through the course 'JavaScript: Understanding the Weird Parts'
+
  [Full course on Udemy] (https://www.udemy.com/understand-javascript/learn/v4/content)
 
 
