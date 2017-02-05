@@ -71,4 +71,11 @@
 
 
 
+### Day 10: February 4, 2017
+
+**Today's Progress**: Continued going through the course 'JavaScript: Understanding the Weird Parts'
+ [Full course on Udemy] (https://www.udemy.com/understand-javascript/learn/v4/content)
+
+
+
 
