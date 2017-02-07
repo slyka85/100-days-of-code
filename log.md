@@ -81,4 +81,10 @@
 
 
 
+### Day 11: February 6, 2017
+
+**Today's Progress**: Completed Section 3 of 'JavaScript: Understanding the Weird Parts' course
+
+ [Full course on Udemy] (https://www.udemy.com/understand-javascript/learn/v4/content)
+
 
