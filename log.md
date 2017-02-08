@@ -88,3 +88,19 @@
  [Full course on Udemy] (https://www.udemy.com/understand-javascript/learn/v4/content)
 
 
+### Day 12: February 7, 2017
+
+**Today's Progress**: Finally got back to #dailycssimages challenge. Superman in pure CSS this time. Not animated yet. Will finish tomorrow
+
+**Thoughts:** Definitely struggling with my geometry skills :)
+
+**Link to work:** [Superman in pure CSS](http://codepen.io/slyka85/full/egLgbb/)
+
+
+### Day 13: February 8, 2017
+
+**Today's Progress**: Finished Superman animation. Continued with JS course from Tony Alicea.
+
+**Thoughts:** Feeling pretty good about understanding how javascript actually works on the inside.
+
+**Link to work:** [Animated Superman in CSS](http://codepen.io/slyka85/full/egLgbb/)
