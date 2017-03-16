@@ -104,3 +104,17 @@
 **Thoughts:** Feeling pretty good about understanding how javascript actually works on the inside.
 
 **Link to work:** [Animated Superman in CSS](http://codepen.io/slyka85/full/egLgbb/)
+
+
+### Day 14: March 6, 2017
+
+**Today's Progress**: My hour of code consisted of whiteboard coding at the job interview
+
+**Thoughts:** After taking an almost a month break from coding life, javascript skills could use some brush-up. 
+
+
+### Day 15: March 7, 2017
+
+**Today's Progress**: Another code challenge for another job interview
+
+**Thoughts:** Javascript, AJAX, Chart.js is in the game.
