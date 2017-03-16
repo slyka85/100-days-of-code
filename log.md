@@ -118,3 +118,10 @@
 **Today's Progress**: Another code challenge for another job interview
 
 **Thoughts:** Javascript, AJAX, Chart.js is in the game.
+
+
+### Day 16: March 15, 2017
+
+**Today's Progress**: Learning about prototypes in JS, extend andd reflection.
+
+**Thoughts:** Getting deeper into understanding some of the most important and powerful aspects of JavaScript. Just wow..
