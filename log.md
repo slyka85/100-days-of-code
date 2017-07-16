@@ -125,3 +125,12 @@
 **Today's Progress**: Learning about prototypes in JS, extend andd reflection.
 
 **Thoughts:** Getting deeper into understanding some of the most important and powerful aspects of JavaScript. Just wow..
+
+
+### Day 17: July 16, 2017
+
+**Today's Progress**: Watching Node.js tutorials and finished my css spinners for page preloading.
+
+**Thoughts:** Haven't updated this log in a while, I guess was just caught up in work.
+
+**Link to work:** [CSS Spinners](https://codepen.io/slyka85/full/QvBQPb/)
